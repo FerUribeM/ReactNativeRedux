@@ -1,0 +1,1 @@
+export const RESET_TO_MAIN = "RESET_TO_MAIN"

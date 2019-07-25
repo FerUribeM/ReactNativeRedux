@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.m \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTShadowView.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTLayout.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/ios/Pods/Headers/Public/React-Core/React/RCTShadowView+Layout.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Users/amplemind/Development\ FerU/Training\ React\ Native/ReactJs/ReduxTraining/reduxProject/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h
